@@ -1,0 +1,3 @@
+The type of null is object and type of undefined is undefined.
+
+typeof is used to check type of any value .
