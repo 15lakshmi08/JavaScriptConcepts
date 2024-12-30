@@ -1,3 +1,8 @@
 The type of null is object and type of undefined is undefined.
 
 typeof is used to check type of any value .
+
+----------------***Stack(Primitive) and Heap(Non-Primitive) memory in javascript***------------------------------------------
+
+Stack is used for copying of the declared variable .
+And Heap memory is used for reference of declared variable means changing of origional value.
