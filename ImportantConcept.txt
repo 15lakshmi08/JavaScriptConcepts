@@ -11,6 +11,8 @@ And Heap memory is used for reference of declared variable means changing of ori
 // In slice method we can give negative index but in substring method we can't give any negative index
 
 
+"new" keyword is used to store key and value pairs
+
 // convert into "seconds" because "date.now" is giving the output in "miliseconds"
 // console.log(Math.floor(Date.now()/1000));
 
