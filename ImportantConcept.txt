@@ -6,3 +6,9 @@ typeof is used to check type of any value .
 
 Stack is used for copying of the declared variable .
 And Heap memory is used for reference of declared variable means changing of origional value.
+
+
+
+
+// convert into "seconds" because "date.now" is giving the output in "miliseconds"
+// console.log(Math.floor(Date.now()/1000));
