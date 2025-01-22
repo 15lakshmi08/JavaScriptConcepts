@@ -8,6 +8,7 @@ Stack is used for copying of the declared variable .
 And Heap memory is used for reference of declared variable means changing of origional value.
 
 
+// In slice method we can give negative index but in substring method we can't give any negative index
 
 
 // convert into "seconds" because "date.now" is giving the output in "miliseconds"
