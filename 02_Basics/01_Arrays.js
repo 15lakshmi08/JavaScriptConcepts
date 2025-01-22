@@ -33,8 +33,13 @@
 
 
 const Arr=[2,3,4,5,6,7];
-console.log("Origional Array",Arr);
+console.log("Origional Array >>>",Arr);
 
 const mn=Arr.slice(1,3);
-console.log("Sliced Array",mn);
+console.log("Sliced Array >>>",mn);
+console.log("ORIGINAL",Arr);
 
+
+const mn1=Arr.splice(1,3);
+console.log("Spliced Array >>>",mn1);
+console.log("ORIGINAL",Arr);
