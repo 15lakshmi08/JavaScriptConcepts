@@ -12,3 +12,10 @@ And Heap memory is used for reference of declared variable means changing of ori
 
 // convert into "seconds" because "date.now" is giving the output in "miliseconds"
 // console.log(Math.floor(Date.now()/1000));
+
+
+another way of conversion
+
+console.log(newDate.toLocaleString('default',
+    { weekday:"long"}
+));
