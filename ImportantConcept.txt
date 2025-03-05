@@ -29,3 +29,12 @@ console.log(newDate.toLocaleString('default',
 SLICE AND SPLICE IN ARRAY
 
 slice method does not change the origional array but splice change the origional array
+
+
+
+// falsy values
+
+// false, 0, -0, BigInt 0n, "", null, undefined, NaN
+
+//truthy values
+// "0", 'false', " ", [], {}, function(){}
