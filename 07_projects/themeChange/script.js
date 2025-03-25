@@ -12,10 +12,10 @@ buttons.forEach(function (button) {
     if (e.target.id === 'white') {
       body.style.backgroundColor = e.target.id;
     }
-    if (e.target.id === 'blue') {
+    if (e.target.id === 'lightblue') {
       body.style.backgroundColor = e.target.id;
     }
-    if (e.target.id === 'yellow') {
+    if (e.target.id === 'lightyellow') {
       body.style.backgroundColor = e.target.id;
     }
     
